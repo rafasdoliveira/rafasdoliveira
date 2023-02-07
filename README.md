@@ -1,4 +1,4 @@
-### E aí! Eu sou o Rafa Oliveira ⚡
+### E aí! Eu sou o Rafael Oliveira ⚡
 --------------------------------------------------------------------------------------------
  
 <div align="center">
