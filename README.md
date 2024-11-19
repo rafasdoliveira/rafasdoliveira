@@ -1,28 +1,41 @@
-### E aí! Eu sou o Rafael Oliveira ⚡
---------------------------------------------------------------------------------------------
- 
+### E aí! Eu sou o Rafael Oliveira ⚡  
+--------------------------------------------------------------------------------------------  
+#### Sobre  
+Sou Desenvolvedor Frontend com experiência desde 2023, especializado em criar soluções inovadoras que transformam desafios em oportunidades. Tenho como objetivo aliar desenvolvimento profissional ao impacto positivo, contribuindo para o crescimento de empresas, negócios e organizações sociais por meio da tecnologia.  
+
 <div align="center">
   <a href="https://github.com/rafasdoliveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafasdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasdoliveira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://a.storyblok.com/f/106378/318x214/059458447e/styled-components.png">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafasdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasdoliveira&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
-##
+---
 
-<div> 
-  <a href = "mailto:rafasdoliveira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafasdoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+#### Tecnologias  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+  <img align="center" height="30" width="40" src="https://a.storyblok.com/f/106378/318x214/059458447e/styled-components.png" alt="Styled-Components">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">  
 </div>
- 
- 
+
+---
+
+#### Contato  
+<div>  
+  <a href="mailto:rafasdoliveira@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+  <a href="https://www.linkedin.com/in/rafasdoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+  <a href="https://instagram.com/rafasdoliveira" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
