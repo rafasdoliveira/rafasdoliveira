@@ -1,7 +1,7 @@
 ### E aí! Eu sou o Rafael Oliveira ⚡  
 --------------------------------------------------------------------------------------------  
 #### Sobre  
-Sou Desenvolvedor Frontend com experiência desde 2023, especializado em criar soluções inovadoras que transformam desafios em oportunidades. Tenho como objetivo aliar desenvolvimento profissional ao impacto positivo, contribuindo para o crescimento de empresas, negócios e organizações sociais por meio da tecnologia.  
+Desenvolvedor Frontend com experiência desde 2023, especializado em criar soluções inovadoras que transformam desafios em oportunidades. Tenho como objetivo aliar desenvolvimento profissional ao impacto positivo, contribuindo para o crescimento de empresas, negócios e organizações sociais por meio da tecnologia.  
 
 <div align="center">
   <a href="https://github.com/rafasdoliveira">
