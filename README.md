@@ -5,7 +5,7 @@ Desenvolvedor Frontend com experiÃªncia desde 2023, especializado em criar soluÃ
 
 <div align="center">
   <a href="https://github.com/rafasdoliveira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafasdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafasdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasdoliveira&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
