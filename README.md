@@ -3,17 +3,10 @@
 #### Sobre  
 Desenvolvedor Frontend com experiência desde 2023, especializado em criar soluções inovadoras que transformam desafios em oportunidades. Tenho como objetivo aliar desenvolvimento profissional ao impacto positivo, contribuindo para o crescimento de empresas, negócios e organizações sociais por meio da tecnologia.  
 
-<div align="center">
-<!--   <a href="https://github.com/rafasdoliveira"> -->
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafasdoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasdoliveira&layout=compact&langs_count=7&theme=dark"/> -->
-<!--   </a> -->
-</div>
-
 ---
 
 #### 🚀 Tecnologias e Ferramentas  
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">  
+<div style="display: flex; gap: 12px; margin-top: 10px;">  
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
