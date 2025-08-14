@@ -6,22 +6,24 @@ Desenvolvedor Frontend com experiência desde 2023, especializado em criar solu�
 
 ---
 
-#### 🚀 Tecnologias e Ferramentas  
+#### 🚀 Tecnologias e Ferramentas
 
 <table>
   <tr>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI"></td>
-    <td><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS"></td>
-    <td><img height="30" src="https://a.storyblok.com/f/106378/318x214/059458447e/styled-components.png" alt="Styled-Components"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass"></td>
-    <td><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"></td>
+    <!-- Next.js em branco para aparecer no tema escuro -->
+    <td><img height="30" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"></td>
+    <!-- Styled-components pelo SimpleIcons para estabilidade -->
+    <td><img height="30" src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="Styled-Components"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass"></td>
+    <td><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"></td>
   </tr>
 </table>
 
