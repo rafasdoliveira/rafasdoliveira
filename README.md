@@ -1,7 +1,19 @@
 ### E aí! Eu sou o Rafael Oliveira ⚡  
 --------------------------------------------------------------------------------------------  
 #### Sobre  
-Desenvolvedor Frontend com experiência desde 2023, especializado em criar soluções inovadoras que transformam desafios em oportunidades. Tenho como objetivo aliar desenvolvimento profissional ao impacto positivo, contribuindo para o crescimento de empresas, negócios e organizações sociais por meio da tecnologia.  
+Desenvolvedor Full Stack especialista em React, TypeScript e Node.js. Foco em construir interfaces de alta performance e APIs robustas. Transformo requisitos complexos de negócio em soluções escaláveis, testáveis e prontas para produção.
+
+Habilidades de destaque
+Linguagens & Tecnologias: React.js, Next.js, TypeScript, JavaScript (ES6+), Node.js, HTML5, CSS3
+Frontend: Tailwind CSS, Material UI, ShadCN, Redux, SASS/SCSS, React Testing Library, Cypress
+
+Backend & APIs: Node.js, Express, Nest, API RESTful, integração com .NET, SQL
+
+Testes & Qualidade: Jest, Cypress, React Testing Library, testes unitários e E2E, code review
+
+Infra & DevOps: Git, GitHub, Bitbucket, CI/CD (pipelines de deploy automatizado), Figma
+
+Metodologias: Agile, Scrum, Kanban (upstream/downstream), mapeamento de entregas, onboarding técnico
 
 <div align="center">
 <!--   <a href="https://github.com/rafasdoliveira">
