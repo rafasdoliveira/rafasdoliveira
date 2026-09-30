@@ -24,7 +24,7 @@ Metodologias: Agile, Scrum, Kanban (upstream/downstream), mapeamento de entregas
 
 ---
 
-#### 🚀 Tecnologias e Ferramentas  
+<!-- #### 🚀 Tecnologias e Ferramentas  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
@@ -55,4 +55,5 @@ Metodologias: Agile, Scrum, Kanban (upstream/downstream), mapeamento de entregas
   <a href="https://instagram.com/rafasdoliveira" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</div> 
+-->
